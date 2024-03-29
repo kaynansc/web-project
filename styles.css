@@ -1,0 +1,13 @@
+#container {
+  margin: 0 30rem;
+}
+
+.list-ordered {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 10rem;
+}
+
+.list {
+  text-decoration: line-through;
+}
