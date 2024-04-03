@@ -2,6 +2,10 @@
   margin: 0 30rem;
 }
 
+.h1-section1 {
+  color: red;
+}
+
 .list-ordered {
   display: flex;
   justify-content: space-between;
